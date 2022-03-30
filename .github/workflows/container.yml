@@ -26,4 +26,3 @@ jobs:
           AWS-ACCESS-KEY-ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS-SECRET-ACCESS-KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS-REGION: us-east-1 # To update manually
- 
